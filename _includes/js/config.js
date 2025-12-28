@@ -75,17 +75,6 @@ var siteConfig = {
       "cmsLocale": "en-GB",
       "gbifOrgLocalePrefix": "",
       "mapTileLocale": "en"
-    },
-    {
-      "code": "da",
-      "localeCode": "da",
-      "label": "Dansk",
-      "default": false,
-      "textDirection": "ltr",
-      "iso3LetterCode": "dan",
-      "cmsLocale": "en-GB",
-      "gbifOrgLocalePrefix": "",
-      "mapTileLocale": "en"
     }
   ],
   "messages": {},
@@ -94,9 +83,7 @@ var siteConfig = {
       "type": "in",
       "key": "publishingOrg",
       "values": [
-        "760d5f24-4c04-40da-9646-1b2c935da502",
-        "2e7df380-8356-4533-bcb3-5459e23c794e",
-        "8e1a97a0-3ca8-11d9-8439-b8a03c50a862"
+        "75ed8583-8bd8-4f82-9346-75b234fe4682"
       ]
     },
     "highlightedFilters": [
@@ -178,9 +165,7 @@ var siteConfig = {
       "type": "in",
       "key": "publishingOrganizationKey",
       "values": [
-        "760d5f24-4c04-40da-9646-1b2c935da502",
-        "2e7df380-8356-4533-bcb3-5459e23c794e",
-        "8e1a97a0-3ca8-11d9-8439-b8a03c50a862"
+        "75ed8583-8bd8-4f82-9346-75b234fe4682"
       ]
     }
   }

@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: My headline
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat
+title: Czech Virtual Herbarium
+description: Collection of digital specimens from herbarium collections in the Czech Republic
 background: /assets/images/placeholders/templates/w1600h800.png
 imageLicense: None for this image
 height: 70vh
@@ -15,14 +15,7 @@ cta:
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
+Herbarium collections are a fundamental reference source for learning about the diversity of plants (and other organisms traditionally considered plants and stored in herbaria). On this page, we offer an overview of all herbarium specimens published on GBIF that originate from Czech herbarium collections and have been digitized to at least some extent.  
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+ Thanks for the creation of this portal go first and foremost to all herbarium curators who process and make data available, and to the [GBIF](https://www.gbif.org/) consortium for providing the technological infrastructure.
