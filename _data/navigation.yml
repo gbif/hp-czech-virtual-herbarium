@@ -14,10 +14,12 @@
     href: /literature/search
 - text: Links
   menu: # Dropdown menu (one level deep only)
-  - text: Biodiversity.cz
-    href: https://biodiversity.cz
+  - text: Pladias (flora and vegetation)
+    href: https://pladias.cz/en
+  - text: Dalib (lichens)
+    href: https://dalib.cz/en
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Platform" # Title for block of menu items
+  - text: "EOSC Platform" # Title for block of menu items
   - text: HerbColl Image Repository
     href: https://herbarium.biodiversity.cz
   - text: Tools for curators

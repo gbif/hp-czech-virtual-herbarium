@@ -19,7 +19,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Czech virtual herbarium # the title of your site should go here
+title: Czech Virtual Herbarium # the title of your site should go here
 email: novotp@natur.cuni.cz
 description: >- # this means to ignore newlines (until baseurl:)
   Joined presentation of Czech herbarium specimens data.

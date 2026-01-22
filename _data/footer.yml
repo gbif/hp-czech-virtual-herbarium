@@ -11,8 +11,6 @@ columns:
       To use, publish or correct the data, please follow GBIF general guidelines and licence of the individual records.    
 
   - name: Code
-    description: | # Can be Markdown
-      See `_data/footer.yml` to customize the footer.
     links:
     - text: Hosted portal
       href: https://github.com/gbif/hp-czech-virtual-herbarium
