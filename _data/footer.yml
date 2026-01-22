@@ -5,27 +5,30 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Column example
+  - name: Data
     description: | # Can be Markdown and multiline as shown here. 
-      This is an example column. You can add as many as you want.
-      Each column can have a name, an optional description and optional links.
-      You can also enable social icons for a column (e.g. for a "Contact" column).
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+      All data are coming from GBIF infrastructure, that is based on individual institutional data providers.
+      To use, publish or correct the data, please follow GBIF general guidelines and licence of the individual records.    
 
   - name: Code
     description: | # Can be Markdown
       See `_data/footer.yml` to customize the footer.
+    links:
+    - text: Hosted portal
+      href: https://github.com/gbif/hp-czech-virtual-herbarium
+    - text: Biodiversity.cz
+      href: https://github.com/biodiversity-cz
   
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      Coordinated by
+      * Herbarium PRC
+      * Charles University, Faculty of Science
+      * Benátská 2, Praha 2
+      * Czech Republic
+    links:
+      - text: Biodiversity.cz
+        href: https://biodiversity.cz
     connectIcons: true # Show social icons (defined in _config.yml)
 
 

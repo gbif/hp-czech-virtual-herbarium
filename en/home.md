@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Czech Virtual Herbarium
 description: Collection of digital specimens from herbarium collections in the Czech Republic
-background: /assets/images/placeholders/templates/w1600h800.png
+background: /assets/images/photos/2.jpg
 imageLicense: None for this image
 height: 70vh
 cta:
