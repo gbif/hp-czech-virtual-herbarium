@@ -5,6 +5,7 @@ description: Participating Herbaria
 background: /assets/images/photos/1.png
 imageLicense: None for this image
 height: 50vh
+permalink: /partners
 ---
 
 * **PR** - [National Museum, Prague](https://www.gbif.org/publisher/17e8fde5-9144-49c8-a893-87138e95b0b7)  

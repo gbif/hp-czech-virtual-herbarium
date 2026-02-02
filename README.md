@@ -178,3 +178,7 @@ The theme is optimized for exploring subsets of data from gbif.org. For that we 
 
 for those pages it is important to follow the convention that "key" type pages have the permalink /collection/_key_
 the reason for that is that _key_ will be replaces on the server to support whatever guid or identifier is provided in the url to load the correct data.
+
+## Local development
+
+docker run -it -e JEKYLL_ENV=development --rm -p 4000:4000 --volume="$PWD:/srv/jekyll" docker.gbif.org/fast-jekyll:4.1.0 jekyll serve --host 0.0.0.0
