@@ -20,14 +20,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Czech Virtual Herbarium # the title of your site should go here
-email: novotp@natur.cuni.cz
 description: >- # this means to ignore newlines (until baseurl:)
   Joined presentation of Czech herbarium specimens data.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://czech-virtual-herbarium.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SOCIAL PROFILES that will show in the footer
-email: info@gbif.org                                      # Social icon in footer
+email: novotp@natur.cuni.cz
 #twitter_username: yourname # if you have an account you want to link to. Else comment this line out
 github_username:  biodiversity-cz # if you have an account you want to link to. Else comment this line out
 #bluesky_username: yourname.org                            # Social icon in footer

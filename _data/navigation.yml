@@ -6,12 +6,16 @@
   menu: 
   - text: Occurrences
     href: /occurrence/search
-  - text: Datasets
-    href: /dataset/search
-  - text: Collections
-    href: /collection/search
-  - text: Literature
-    href: /literature/search
+#  - text: Datasets
+#    href: /dataset/search
+#  - text: Collections
+#    href: /collection/search
+  - text: Institutions
+    href: /institution/search
+#  - text: Publishers
+#    href: /publisher/search
+#  - text: Literature
+#    href: /literature/search
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Pladias (flora and vegetation)
