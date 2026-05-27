@@ -8,8 +8,8 @@
     href: /occurrence/search
 #  - text: Datasets
 #    href: /dataset/search
-#  - text: Collections
-#    href: /collection/search
+  - text: Collections
+    href: /collection/search
   - text: Institutions
     href: /institution/search
 #  - text: Publishers
