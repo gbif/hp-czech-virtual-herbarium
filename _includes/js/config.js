@@ -41,7 +41,8 @@ const collectionsCode = [
     "PRC",
     "PR",
     "OL",
-    "MP"
+    "MP",
+    "PRM"
 
 ]
 

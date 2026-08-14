@@ -16,18 +16,35 @@
 #    href: /publisher/search
 #  - text: Literature
 #    href: /literature/search
+- text: Organism groups
+  menu:
+  - text: Algae
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzA3MzU5MywxMDYsMzYsNzk0NzE4NCwzMzJdfX0
+  - text: Fungi and lichens
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNV19fQ
+  - text: Mosses
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMzUsOSwxM119fQ
+  - text: Ferns
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbNzIyODY4NCwyNDVdfX0
+  - text: Gymnosperms
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMTk0XX19
+  - text: Flowering plants
+    href: data?filter=eyJtdXN0Ijp7InRheG9uS2V5IjpbMjIwXX19
 - text: Links
   menu: # Dropdown menu (one level deep only)
-  - text: Pladias (flora and vegetation)
-    href: https://pladias.cz/en
-  - text: Dalib (lichens)
-    href: https://dalib.cz/en
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "EOSC Platform" # Title for block of menu items
   - text: HerbColl Image Repository
     href: https://herbarium.biodiversity.cz
   - text: Tools for curators
     href: https://tools.biodiversity.cz
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: Pladias (flora and vegetation)
+    href: https://pladias.cz/en
+  - text: Dalib (lichens)
+    href: https://dalib.cz/en
+  - text: PlantBank (GBIF publisher)
+    href: https://www.gbif.org/publisher/a1f0ce78-f8aa-4ad9-8315-4c5de93f3ea6
+
 - text: Partners
   href: /partners/
 - text: News
